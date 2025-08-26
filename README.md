@@ -1,3 +1,5 @@
+# day 4
+
 This repository contains MATLAB scripts that rely on the [FieldTrip toolbox](https://www.fieldtriptoolbox.org/).  
 FieldTrip is an open-source MATLAB toolbox for MEG, EEG, and other electrophysiological data analysis.
 
