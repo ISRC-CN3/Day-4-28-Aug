@@ -8,6 +8,7 @@ This repository contains MATLAB scripts that rely on the [FieldTrip toolbox](htt
 FieldTrip is an open-source MATLAB toolbox for MEG, EEG, and other electrophysiological data analysis.
 
 ---
+## add everything beside the lab code .mlx 
 
 ## Requirements
 
@@ -23,9 +24,10 @@ Follow the installation instructions provided on the FieldTrip website to set up
 For more guidance, see:  
 [FieldTrip Installation Guide](https://www.fieldtriptoolbox.org/faq/matlab/installation/)
 
-one drive links for data
-sample data:
 
+one drive links for data
+
+sample data:
 https://ulster-my.sharepoint.com/:u:/g/personal/butler-m13_ulster_ac_uk1/ET3NA197A3xJvnrepQYuZ2gBDnTl3kQqp5YuKXp0NiNhcA?e=QfJJQj
 
 Source model:
