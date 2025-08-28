@@ -23,6 +23,16 @@ Follow the installation instructions provided on the FieldTrip website to set up
 For more guidance, see:  
 [FieldTrip Installation Guide](https://www.fieldtriptoolbox.org/faq/matlab/installation/)
 
+one drive links for data
+sample data:
+
+https://ulster-my.sharepoint.com/:u:/g/personal/butler-m13_ulster_ac_uk1/ET3NA197A3xJvnrepQYuZ2gBDnTl3kQqp5YuKXp0NiNhcA?e=QfJJQj
+
+Source model:
+https://ulster-my.sharepoint.com/:u:/g/personal/butler-m13_ulster_ac_uk1/EXzk_iDIlSdJoam17Jz1TYcBHf4aaTnrKRx6baA77z8LWw?e=fhYQbM
+
+
+
 ---
 
 example setup for fieldtrip:
